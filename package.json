@@ -1,0 +1,27 @@
+{
+  "name": "jaysynchrony",
+  "version": "0.0.0",
+  "description": "Magic sauce that makes ordinary JavaScript functions asynchronous and makes AJAX calls look like synchronous code.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wmhilton/jaysynchrony"
+  },
+  "keywords": [
+    "json-rpc",
+    "asyc",
+    "jayson"
+  ],
+  "author": "William Hilton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wmhilton/jaysynchrony/issues"
+  },
+  "dependencies": {
+    "jayson": "~1.1.1",
+    "es6-promise": "~1.0.0"
+  }
+}
